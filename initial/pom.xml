@@ -17,12 +17,6 @@
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
-	
-	<properties>
-  		<sonar.projectKey>Ashokgit099_springboot-helloapp</sonar.projectKey>
-  		<sonar.organization>helloapp</sonar.organization>
- 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
-	</properties>
         
 	<dependencies>
 		<dependency>
